@@ -13,13 +13,12 @@
 //= require jquery
 //= require fancybox
 //= require jquery_ujs
+//= require twitter/bootstrap
 //= require jquery-fileupload/basic
 //= require jquery-fileupload/vendor/tmpl
 //= require_tree .
 
-jQuery ->
-  $('#new_painting').fileupload
-    dataType: "script"
+
 	
 
     
